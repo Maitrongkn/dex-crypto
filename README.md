@@ -22,7 +22,7 @@ Một ứng dụng web PHP hiển thị thông tin về các token cryptocurrenc
 
 1. Clone repository:
 ```bash
-git clone https://your-repository/dex-php.git
+git clone https://github.com/Maitrongkn/dex-crypto
 cd dex-php
 ```
 
@@ -67,11 +67,3 @@ php -S localhost:8000 -t public/
 ```
 
 2. Truy cập ứng dụng tại http://localhost:8000
-
-## Đóng góp
-
-Vui lòng đọc [CONTRIBUTING.md](CONTRIBUTING.md) để biết thêm chi tiết về quy trình đóng góp.
-
-## Giấy phép
-
-Dự án này được phân phối dưới giấy phép MIT. Xem file [LICENSE](LICENSE) để biết thêm chi tiết. 
