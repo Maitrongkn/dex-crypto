@@ -1,0 +1,17 @@
+{
+    "name": "dex-php/web3-dex",
+    "description": "A PHP-based Web3 DEX platform",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "web3p/web3.php": "^0.1.6",
+        "guzzlehttp/guzzle": "^7.0",
+        "vlucas/phpdotenv": "^5.3",
+        "twig/twig": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+} 
